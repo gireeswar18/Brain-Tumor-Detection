@@ -1,0 +1,50 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Lab settings
+.jupyter/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Large datasets (recommended)
+data/
+dataset/
+datasets/
+
+# Model files (optional)
+*.h5
+*.keras
+*.ckpt
+
+# TensorBoard logs
+logs/
+
+# Kaggle files
+kaggle.json
+
+# Cache folders
+.cache/
+
+*.keras
